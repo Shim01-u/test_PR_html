@@ -11,7 +11,7 @@
 5.プルリクエストを送りましょう。
 
 shkakizaki
-shkajita
+shkajita ←見つけました。マージしてください
 rikoseki
 yukoyanagi
 tokondou
